@@ -25,3 +25,4 @@ tqdm==4.66.1
 
 # Security: for parsing URLs safely
 defusedxml==0.7.1
+
