@@ -5,7 +5,7 @@
  
  -----------------------------------------------------StalkEye - OSINT Intelligence Tool -----------------------------------------
 
-StalkEye is a powerful Python-based OSINT (Open Source Intelligence) tool designed for ethical security research and digital footprint analysis. It automates the process of searching for a target username across the web using DuckDuckGo, then systematically scans the discovered URLs to extract valuable information such as email addresses, phone numbers, social media profiles, and more.
+StalkEye is a Python-based OSINT (Open Source Intelligence) tool designed for ethical security research and digital footprint analysis. It automates the process of searching for a target username across the web using DuckDuckGo, then systematically scans the discovered URLs to extract information such as email addresses, phone numbers, social media profiles, and more.
 
 
 Disclaimer:
