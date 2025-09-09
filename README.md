@@ -103,14 +103,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
 
- Acknowledgments :
+## Acknowledgments :
 Inspired by the need for accessible OSINT tools for ethical security practices.
-
-Built with the powerful Playwright framework.
-
 Thanks to the open-source community for continuous support and inspiration.
 
-
+---
 
 *"I often feel that night and shadow are more alive than day and light...."*
 
