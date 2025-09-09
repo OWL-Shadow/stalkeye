@@ -30,7 +30,7 @@ o Stealthy Operation: Uses Playwright with a real Chrome user-agent for reliable
 Ethical First: Includes a mandatory interactive disclaimer to ensure responsible use.
 
 
-##⚠️ Legal & Ethical Disclaimer
+##  Legal & Ethical Disclaimer⚠️ :
 
 
 By using StalkEye, you agree to the following:
