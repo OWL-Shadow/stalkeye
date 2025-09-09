@@ -1,2 +1,27 @@
+# Core scraping & automation
 playwright==1.40.0
+
+# Terminal output styling
 colorama==0.4.6
+
+# HTTP requests for potential API calls (common in OSINT)
+requests==2.31.0
+
+# URL parsing and validation
+urllib3==2.0.7
+
+# Data validation (for emails, phone numbers, etc.)
+email-validator==2.0.0
+phonenumbers==8.13.22
+
+# BeautifulSoup for alternative HTML parsing (good backup)
+beautifulsoup4==4.12.2
+
+# Fake useragent for better stealth
+fake-useragent==1.4.0
+
+# Progress bars for better user experience
+tqdm==4.66.1
+
+# Security: for parsing URLs safely
+defusedxml==0.7.1
