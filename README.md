@@ -1,9 +1,8 @@
+# OWL OSINT tool
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/OWL-Shadow/stalkeye)
 
- 
- -----------------------------------------------------StalkEye - OSINT Intelligence Tool -----------------------------------------
 
 StalkEye is a Python-based OSINT (Open Source Intelligence) tool designed for ethical security research and digital footprint analysis. It automates the process of searching for a target username across the web using DuckDuckGo, then systematically scans the discovered URLs to extract information such as email addresses, phone numbers, social media profiles, and more.
 
@@ -11,7 +10,7 @@ StalkEye is a Python-based OSINT (Open Source Intelligence) tool designed for et
 Disclaimer:
 This tool is intended for authorized security assessments, educational purposes, and personal security awareness only. Misuse of this tool for unauthorized scanning, harassment, or any illegal activities is strictly prohibited.
 
-Features :
+## Features :
 
 o Search Automation: Automatically queries DuckDuckGo for a given username.
  
@@ -31,7 +30,7 @@ o Stealthy Operation: Uses Playwright with a real Chrome user-agent for reliable
 Ethical First: Includes a mandatory interactive disclaimer to ensure responsible use.
 
 
- -----------------------------------------------⚠️ Legal & Ethical Disclaimer⚠️ ---------------------------------------------
+##⚠️ Legal & Ethical Disclaimer
 
 
 By using StalkEye, you agree to the following:
@@ -49,29 +48,31 @@ This tool is for educational and authorized security research purposes ONLY.
 You are solely responsible for your actions.
 
  
------------------------------------------------------Installation -----------------------------------------------------
-
+##Installation
 1. Clone the Repository
-bash
+```bash
 git clone https://github.com/OWL-Shadow/stalkeye.git
 cd stalkeye
+```
 2. Install Python Dependencies
 Ensure you have Python 3.7+ installed. Then, install the required libraries:
 
-bash
+```bash
 pip install -r requirements.txt
+```
 
 3. Install Playwright Browsers
 This tool uses Playwright to control a Chromium browser. Install it with:
 
-bash
+```bash
 playwright install chromium
-
+```
 Usage
 Run the tool:
 
-bash
+```bash
 python stalkeye.py
+```
 Read and Accept the Disclaimer: You must agree to the terms to continue.
 
 Enter the Target Username: When prompted, input the username you want to investigate.
@@ -81,7 +82,7 @@ Wait for Analysis: The tool will automatically search, visit links, and extract 
 Review Results: Findings will be printed to the console in real-time and saved to a JSON file (e.g., results_johndoe_20250909.json) in the same directory.
 
 													
------------------------------------------------------ Technical Overview  -----------------------------------------------------
+## Technical Overview 
 
 Language: Python 3
 
@@ -95,11 +96,11 @@ re: For regex-based data extraction.
 
 Patterns: Uses custom regular expressions to identify and validate data points.
 
-🤝 Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 
-📜 License
+## License
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
 
  Acknowledgments :
@@ -111,6 +112,6 @@ Thanks to the open-source community for continuous support and inspiration.
 
 
 
-
+*"I often feel that night and shadow are more alive than day and light...."*
 
 Happy (and ethical) hunting!!
