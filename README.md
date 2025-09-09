@@ -4,11 +4,11 @@
 
 
 ------------------------------------------------------ StalkEye - OSINT Intelligence Tool -----------------------------------------------------
+
 StalkEye is a powerful Python-based OSINT (Open Source Intelligence) tool designed for ethical security research and digital footprint analysis. It automates the process of searching for a target username across the web using DuckDuckGo, then systematically scans the discovered URLs to extract valuable information such as email addresses, phone numbers, social media profiles, and more.
 
 
 Disclaimer:
-
 This tool is intended for authorized security assessments, educational purposes, and personal security awareness only. Misuse of this tool for unauthorized scanning, harassment, or any illegal activities is strictly prohibited.
 
 Features :
@@ -31,7 +31,7 @@ o Stealthy Operation: Uses Playwright with a real Chrome user-agent for reliable
 Ethical First: Includes a mandatory interactive disclaimer to ensure responsible use.
 
 
--------------------------------------------------------------------------⚠️ Legal & Ethical Disclaimer⚠️----------------------------------------------------------------------------------
+--------------------------------------------------⚠️ Legal & Ethical Disclaimer⚠️--------------------------------------------------------------
 By using StalkEye, you agree to the following:
 
 You will use this tool only on targets you have explicit permission to test.
@@ -45,8 +45,7 @@ The developer (Nyx-Shadow) is not responsible for any misuse or damage caused by
 This tool is for educational and authorized security research purposes ONLY.
 
 You are solely responsible for your actions.
-_________________________________________________________________________________________Installation______________________________________________________________________________________
-
+_______________________________________________________________Installation_______________________________________________________________
 1. Clone the Repository
 bash
 git clone https://github.com/OWL-Shadow/stalkeye.git
@@ -76,7 +75,7 @@ Wait for Analysis: The tool will automatically search, visit links, and extract 
 
 Review Results: Findings will be printed to the console in real-time and saved to a JSON file (e.g., results_johndoe_20250909.json) in the same directory.
 
-================================================================================== Technical Overview =====================================================================================
+======================================================== Technical Overview ==================================================================
 Language: Python 3
 
 Core Libraries:
