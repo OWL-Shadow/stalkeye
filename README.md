@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/OWL-Shadow/stalkeye)
 
  
- -----------------------------------------------------StalkEye - OSINT Intelligence Tool -----------------------------------------------------
+ -----------------------------------------------------StalkEye - OSINT Intelligence Tool -----------------------------------------
 
 StalkEye is a powerful Python-based OSINT (Open Source Intelligence) tool designed for ethical security research and digital footprint analysis. It automates the process of searching for a target username across the web using DuckDuckGo, then systematically scans the discovered URLs to extract valuable information such as email addresses, phone numbers, social media profiles, and more.
 
@@ -31,7 +31,7 @@ o Stealthy Operation: Uses Playwright with a real Chrome user-agent for reliable
 Ethical First: Includes a mandatory interactive disclaimer to ensure responsible use.
 
 
- -----------------------------------------------------⚠️ Legal & Ethical Disclaimer⚠️ -----------------------------------------------------
+ -----------------------------------------------⚠️ Legal & Ethical Disclaimer⚠️ ---------------------------------------------
 
 
 By using StalkEye, you agree to the following:
